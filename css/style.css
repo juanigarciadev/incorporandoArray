@@ -18,10 +18,10 @@ body {
 }
 
 .h1 {
-    color: #ff0038;
+    color: white;
     padding-top: 20px;
 }
 
-p {
-    color: white;
+.highlightedText {
+    color: #ff0038;
 }
